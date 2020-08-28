@@ -1,16 +1,15 @@
-### Hi there 👋
+## Joshua Steinhauer
 
-<!--
-**joshcamas/joshcamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie game developer who owns a bunch of fish and plants.
 
-Here are some ideas to get you started:
+### Interests
+* Game development
+* Unity
+* Developing systems and how things are put together
+* Creating tools to optimize development 
+* Python tools - oh boy they are rad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+* [Ardenfall, a choice based RPG](https://ardenfall.com)
+* TTGO Watch App Framework (more info soon)
+
