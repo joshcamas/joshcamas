@@ -9,8 +9,9 @@ Indie game developer who owns a bunch of fish and plants.
 * Creating tools to optimize development 
 * Python tools - oh boy they are rad
 
-### Current Projects
+### Current Public Projects
 * [Ardenfall, a choice based RPG](https://ardenfall.com)
 * [WebGL Particle System](https://github.com/joshcamas/webgl-particle-system)
+* Unity Prefab Window (more info soon)
 * TTGO Watch App Framework (more info soon)
 
