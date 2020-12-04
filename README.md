@@ -1,6 +1,6 @@
 ## Joshua Steinhauer
 
-Indie game developer who owns a bunch of fish and plants.
+Indie game developer who owns a bunch of plants and a very good cat name Toby.
 
 ### Interests
 * Game development
