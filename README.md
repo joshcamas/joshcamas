@@ -15,4 +15,3 @@ Indie game developer who owns a bunch of fish and plants.
 * [Moss Painter](https://github.com/joshcamas/moss-painter)
 * [Daggerfall Unity Mods](https://github.com/joshcamas/daggerfall-unity-mods)
 * Unity Prefab Window (more info soon)
-* TTGO Watch App Framework (more info soon)
