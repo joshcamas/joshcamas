@@ -1,8 +1,8 @@
 ## Joshua Steinhauer
 
-Indie game developer who owns a bunch of plants and a very good cat name Toby.
+Indie game developer who owns a bunch of plants and a very good cat named Toby.
 
-Website: https://jsteinhauer.com
+Portfolio: https://jsteinhauer.com
 
 ### Interests
 * Game development
