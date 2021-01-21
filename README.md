@@ -8,7 +8,8 @@ Portfolio: https://jsteinhauer.com
 * Game development
 * Unity
 * Developing systems and how things are put together
-* Creating tools to optimize development 
+* Creating tools to optimize developer productivity
+* Building reusable libraries to increase cross-product stability and development time
 * Python tools - oh boy they are rad
 
 ### Current Public Projects
