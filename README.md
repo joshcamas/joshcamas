@@ -14,7 +14,5 @@ Portfolio: https://jsteinhauer.com
 
 ### Current Public Projects
 * [Ardenfall, a choice based RPG](https://ardenfall.com)
-* [WebGL Particle System](https://github.com/joshcamas/webgl-particle-system)
 * [Moss Painter](https://github.com/joshcamas/moss-painter)
-* [Daggerfall Unity Mods](https://github.com/joshcamas/daggerfall-unity-mods)
 * [Unity Prefab Window](https://github.com/joshcamas/prefab-library)
